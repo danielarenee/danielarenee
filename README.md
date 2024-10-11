@@ -3,5 +3,5 @@
  👩🏻‍💻 Data Science undergraduate student <br>
  💡 Passionate about AI <br>
  🚀 Currently working on unsupervised clustering <br>
- 🧠 Currently learning about database management <br>
+ 🧠 Currently learning data structures and algorithms <br>
  🌱 Fun fact: I also do biotechnology research ! <br>
