@@ -1,7 +1,6 @@
 ## Hi, I'm Daniela!
 
- ## Data Science undergraduate student 👩🏻‍💻  <br> <br>
- 
+ 👩🏻‍💻 Data Science undergraduate student   <br> 
  💡 Passionate about AI <br>
  🚀 Currently working on unsupervised clustering <br>
  🧠 Currently learning data structures and algorithms <br>
