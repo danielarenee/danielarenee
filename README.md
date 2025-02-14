@@ -1,4 +1,4 @@
-## Hi, I'm Daniela!
+## Hola!, my name is Daniela
 
  👩🏻‍💻 Data Science undergraduate student   <br> 
  💡 Passionate about AI <br>
