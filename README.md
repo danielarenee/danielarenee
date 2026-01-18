@@ -2,6 +2,6 @@
 
  👩🏻‍💻 Data Science undergraduate student   <br> 
  💡 Passionate about AI <br>
- 🧠 Currently learning unsupervised learning algorithms  <br>
+ 🧠 Currently learning topological data analysis  <br>
  🚀 Currently working on graph algorithms  <br>
  🌱 Fun fact: I also do microbiology research ! <br>
